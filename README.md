@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Yassine Mchereg<br>🎓 3rd-year Software Engineering student @ EMSI<br>💻 Passionate about mobile & web development, with experience in Java, Kotlin, Swift and Pyhton<br>🧠 Currently diving into data science, data structures, and system design<br>🛠️ I’ve worked on projects like a task manager app, a backoffice dashboard, and even an AI Model<br>🔐 Learning more about PowerShell, Unix, Vim, and how things work under the hood<br><br>“Programming isn’t just about writing code — it’s about solving real-world problems.”
+# Hi, I'm Yassine👋
+A curious Computer Science student on a journey to unlock the full potential of technology.<br><br>“Programming isn’t just about writing code — it’s about solving real-world problems.”
 
 
 # 💻 Tech Stack:
