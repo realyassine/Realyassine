@@ -1,5 +1,5 @@
 # Hi, I'm Yassine👋
-A curious Computer Science student on a journey to unlock the full potential of technology.<br><br>“Programming isn’t just about writing code — it’s about solving real-world problems.”
+A curious CS student on a journey to unlock the full potential of technology.<br><br>“Programming isn’t just about writing code — it’s about solving real-world problems.”
 
 
 # 💻 Tech Stack:
